@@ -1,0 +1,161 @@
+Googling: The day of the year with the most hours of sunlight is known as what? AND "Autumn aurora" OR "Summer solstice" OR "Winter welcome"
+Question: The day of the year with the most hours of sunlight is known as what?
+Here are the results:
+              text  weight
+0    autumn aurora     0.0
+1  summer solstice    11.5
+2   winter welcome     1.5
+'Best answer is: summer solstice'
+Took 3.514888286590576 seconds
+Enter an option (0-1)
+0) Quit
+1) Find the answer from the current screen on the phone
+> 1
+Googling: The dance move where  you quickly duck your  head into your elbow is called what? AND "Doink" OR "Dab" OR "Dingus"
+Question: The dance move where  you quickly duck your  head into your elbow is called what?
+Here are the results:
+     text  weight
+0   doink     0.0
+1     dab     7.0
+2  dingus     0.0
+'Best answer is: dab'
+Took 3.073930025100708 seconds
+Enter an option (0-1)
+0) Quit
+1) Find the answer from the current screen on the phone
+> 1
+Googling: Jimmy Buffett sings a famous song about a place based on what beverage? AND "Hot milk" OR "Cold brew coffee" OR "Margarita"
+Question: Jimmy Buffett sings a famous song about a place based on what beverage?
+Here are the results:
+               text  weight
+0          hot milk     0.0
+1  cold brew coffee     0.0
+2         margarita     7.0
+'Best answer is: margarita'
+Took 3.0391957759857178 seconds
+Enter an option (0-1)
+0) Quit
+1) Find the answer from the current screen on the phone
+> 1
+Googling: Which of these is another term for a vintner? AND "Auctioneer" OR "Winemaker" OR "Antiques dealer"
+Question: Which of these is another term for a vintner?
+Here are the results:
+              text  weight
+0       auctioneer     0.0
+1        winemaker     6.0
+2  antiques dealer     0.0
+'Best answer is: winemaker'
+Took 2.8886630535125732 seconds
+Enter an option (0-1)
+0) Quit
+1) Find the answer from the current screen on the phone
+> 1
+Googling: If a vinyl record is called a “45,” the 45 refers to its what? AND "Diameter" OR "Revolutions per minute" OR "Weight"
+Question: If a vinyl record is called a “45,” the 45 refers to its what?
+Here are the results:
+                     text    weight
+0                diameter  5.000000
+1  revolutions per minute  5.333333
+2                  weight  0.000000
+'Best answer is: revolutions per minute'
+Took 2.9823920726776123 seconds
+Enter an option (0-1)
+0) Quit
+1) Find the answer from the current screen on the phone
+> 1
+Googling: During production, “Return of the Jedi” was briefly known as what? AND "Revenge of the Jedi" OR "Return of Vader" OR "The Final Jedi"
+Question: During production, “Return of the Jedi” was briefly known as what?
+Here are the results:
+                  text  weight
+0  revenge of the jedi   29.25
+1      return of vader   13.00
+2       the final jedi   26.00
+'Best answer is: revenge of the jedi'
+Took 3.2511208057403564 seconds
+Enter an option (0-1)
+0) Quit
+1) Find the answer from the current screen on the phone
+> 1
+Googling: Which of these is NOT one of the colors of the cards soccer referees can give  to players? AND "Yellow" OR "Red" OR "Blue"
+Question: Which of these is NOT one of the colors of the cards soccer referees can give  to players?
+Here are the results:
+     text  weight
+0  yellow    12.0
+1     red    14.0
+2    blue     1.0
+'INVERSE QUESTION! Best answer is: blue'
+Took 3.9285268783569336 seconds
+Enter an option (0-1)
+0) Quit
+1) Find the answer from the current screen on the phone
+> 1
+Googling: Which of these animals is native to North America? AND "Mouse" OR "Opossum" OR "Cow"
+Question: Which of these animals is native to North America?
+Here are the results:
+      text  weight
+0    mouse     4.0
+1  opossum    12.0
+2      cow     1.0
+'Best answer is: opossum'
+Took 2.9824671745300293 seconds
+Enter an option (0-1)
+0) Quit
+1) Find the answer from the current screen on the phone
+> 1
+Googling: The “G” in the time zone GMT refers to what? AND "Latitude" OR "Area of a city" OR "Man’s last name"
+Question: The “G” in the time zone GMT refers to what?
+Here are the results:
+              text  weight
+0         latitude    7.00
+1   area of a city    5.75
+2  man’s last name    0.20
+'Best answer is: latitude'
+Took 3.4486310482025146 seconds
+Enter an option (0-1)
+0) Quit
+1) Find the answer from the current screen on the phone
+> 1
+Googling: In the Crimean War, what side fought without another country as its ally? AND "Ottoman Empire" OR "Russia" OR "Austrian Empire"
+Question: In the Crimean War, what side fought without another country as its ally?
+Here are the results:
+              text  weight
+0   ottoman empire    11.0
+1           russia    11.0
+2  austrian empire     7.0
+'Best answer is: ottoman empire'
+Took 3.1164660453796387 seconds
+Enter an option (0-1)
+0) Quit
+1) Find the answer from the current screen on the phone
+> 1
+Googling: Which of these 19905 hit songs features only a single vocalist? AND "| Can’t Make You Love Me" OR "All for Love" OR "Justify My Love"
+Question: Which of these 19905 hit songs features only a single vocalist?
+Here are the results:
+                       text     weight
+0  | can’t make you love me   4.250000
+1              all for love  11.333333
+2           justify my love   6.000000
+'Best answer is: all for love'
+Took 3.194647789001465 seconds
+Enter an option (0-1)
+0) Quit
+1) Find the answer from the current screen on the phone
+> 1
+Googling: Which of these people currently has a holiday that sometimes falls on his actual birthday? AND "Abraham Lincoln" OR "George Washington" OR "Martin Luther King, Jr."
+Question: Which of these people currently has a holiday that sometimes falls on his actual birthday?
+Here are the results:
+                      text     weight
+0          abraham lincoln   5.500000
+1        george washington  11.500000
+2  martin luther king, jr.   3.333333
+'Best answer is: george washington'
+Took 3.1975717544555664 seconds
+Enter an option (0-1)
+0) Quit
+1) Find the answer from the current screen on the phone
+>
+Your selection is not a number!
+Not a valid option!
+Enter an option (0-1)
+0) Quit
+1) Find the answer from the current screen on the phone
