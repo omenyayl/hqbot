@@ -1,5 +1,5 @@
 # hqbot
-A simple-ish bot for our favorite game (Android only!)
+A simple-ish bot for our favorite online trivia game (Android only!)
 
 # Installation
 You're going to need the following:
